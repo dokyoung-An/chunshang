@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20004" start="node6" appversion="7.0.6">
+  <panorama id="node4">
+    <input width="3600" levelbias="0.400" overlap="1" height="3600" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0">
+      <level width="3600" height="3600" predecode="0" preload="0"/>
+      <level width="1800" height="1800" predecode="0" preload="0"/>
+      <level width="900" height="900" predecode="0" preload="0"/>
+      <level width="450" height="450" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="0" fov="100" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" tags="01.천상지구" latitude="35.564371" customnodeid="" info="" datetime="2023. 11. 15. 오후 1:37" description="" heading="0" longitude="129.232331" copyright="" comment="" author="" title="저층부" nodeid="node4" altitude="124.76"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" textalpha="1" height="20" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" enabled="1" background="1" backgroundalpha="1"/>
+      <polystyle mode="1" handcursor="1" backgroundalpha="0.588235" backgroundcolor="0x0000ff" bordercolor="0xffffff" borderalpha="1"/>
+    </hotspots>
+    <media>
+      <image roty="0.000" width="312" id="자연" rotx="0.000" rotz="0.000" stretch="1.000" pan="-21.080" height="197" clickmode="0" tilt="3.970" popbackmode="0" hidepinned="0" handcursor="0" fov="12.000">
+        <source url="media/21..png"/>
+      </image>
+      <image roty="0.000" width="500" id="자연" rotx="-17.000" rotz="0.000" stretch="1.000" pan="-11.980" height="197" clickmode="0" tilt="-6.240" popbackmode="0" hidepinned="0" handcursor="0" fov="21.000">
+        <source url="media/20..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-22.000" rotz="0.000" stretch="1.000" pan="-35.210" height="60" clickmode="0" tilt="-17.190" popbackmode="0" hidepinned="0" handcursor="0" fov="17.000">
+        <source url="media/1..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-27.000" rotz="-4.000" stretch="1.000" pan="-51.780" height="60" clickmode="0" tilt="-10.520" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/15..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-30.000" rotz="-3.000" stretch="1.000" pan="-64.890" height="70" clickmode="0" tilt="-10.580" popbackmode="0" hidepinned="0" handcursor="0" fov="16.000">
+        <source url="media/13..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-51.000" rotz="0.000" stretch="1.000" pan="-14.120" height="60" clickmode="0" tilt="-42.370" popbackmode="0" hidepinned="0" handcursor="0" fov="21.000">
+        <source url="media/14..png"/>
+      </image>
+      <image roty="0.000" width="100" id="생활" rotx="-73.000" rotz="0.000" stretch="1.000" pan="-8.610" height="100" clickmode="0" tilt="-78.150" popbackmode="0" hidepinned="0" handcursor="0" fov="20.000">
+        <source url="media/18..png"/>
+      </image>
+      <image roty="0.000" width="397" id="생활" rotx="-51.000" rotz="-26.000" stretch="1.000" pan="-96.570" height="197" clickmode="0" tilt="-65.850" popbackmode="0" hidepinned="0" handcursor="0" fov="24.000">
+        <source url="media/19..png"/>
+      </image>
+      <image roty="0.000" width="397" id="자연" rotx="-25.000" rotz="0.000" stretch="1.000" pan="-119.950" height="197" clickmode="0" tilt="-21.570" popbackmode="0" hidepinned="0" handcursor="0" fov="19.000">
+        <source url="media/10..png"/>
+      </image>
+      <image roty="0.000" width="397" id="자연" rotx="-46.000" rotz="0.000" stretch="1.000" pan="-39.910" height="197" clickmode="0" tilt="-35.820" popbackmode="0" hidepinned="0" handcursor="0" fov="21.000">
+        <source url="media/11..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교육" rotx="-53.000" rotz="0.000" stretch="1.000" pan="-335.510" height="100" clickmode="0" tilt="-53.890" popbackmode="0" hidepinned="0" handcursor="0" fov="19.000">
+        <source url="media/5..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교육" rotx="0.000" rotz="0.000" stretch="1.000" pan="-308.020" height="100" clickmode="0" tilt="-6.240" popbackmode="0" hidepinned="0" handcursor="0" fov="7.000">
+        <source url="media/4..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교육" rotx="0.000" rotz="0.000" stretch="1.000" pan="-311.720" height="40" clickmode="0" tilt="-6.590" popbackmode="0" hidepinned="0" handcursor="0" fov="9.000">
+        <source url="media/3..png"/>
+      </image>
+      <image roty="0.000" width="107" id="교육" rotx="-7.000" rotz="0.000" stretch="1.000" pan="-340.900" height="41" clickmode="0" tilt="-7.420" popbackmode="0" hidepinned="0" handcursor="0" fov="14.000">
+        <source url="media/2..png"/>
+      </image>
+      <image roty="0.000" width="100" id="자연" rotx="-17.000" rotz="1.000" stretch="1.000" pan="-344.180" height="100" clickmode="0" tilt="-6.440" popbackmode="0" hidepinned="0" handcursor="0" fov="5.000">
+        <source url="media/22..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-27.000" rotz="1.000" stretch="1.000" pan="-188.030" height="70" clickmode="0" tilt="-6.400" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/17.JC.png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" delay="none" zoomafteroutfov="40" zoomoutpause="1" zoomout="0" zoomfov="40" blendtime="1" blendcolor="0x000000" zoomin="0" softedge="0" enabled="1" zoomspeed="2" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" hideabout="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="3600" levelbias="0.400" overlap="1" height="3600" leveltilesize="510" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0">
+      <level width="3600" height="3600" predecode="0" preload="0"/>
+      <level width="1800" height="1800" predecode="0" preload="0"/>
+      <level width="900" height="900" predecode="0" preload="0"/>
+      <level width="450" height="450" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" pan="-14.2542" fov="123.07" tilt="-8.3307"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" pan="360" fovstereographic="330" fov="140" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata source="" tags="01.천상지구" latitude="35.564028" customnodeid="" info="" datetime="2023. 11. 15. 오후 1:40" description="" heading="0" longitude="129.233342" copyright="" comment="" author="" title="고층부" nodeid="node6" altitude="203.16"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label width="180" textalpha="1" height="20" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" enabled="1" background="1" backgroundalpha="1"/>
+      <polystyle mode="1" handcursor="1" backgroundalpha="0.588235" backgroundcolor="0x0000ff" bordercolor="0xffffff" borderalpha="1"/>
+      <polyhotspot id="교통" url="" title="" target="_blank" description="">
+        <polystring>-338.63/-4.45|-3.93/-8.9|-14.67/-12.66|-127.22/-64.71|-127.22/-64.71|-167.6/-33.92|-168.2/-14.45|-171.73/-8.19|-180.3/-4.24|-179.37/-3.46|-170.96/-7.04|-166.99/-13.5|-164.99/-32.51|-123.67/-61.49|-17.07/-12.28|-5.37/-7.81|-339.58/-3.61</polystring>
+      </polyhotspot>
+      <polyhotspot id="교통2" backgroundcolor="0xff55ff" bordercolor="0xffffff" description="" borderalpha="1" url="" title="" backgroundalpha="0.470588" target="_blank">
+        <polystring>-19.9/-13.2|-28.99/-16.7|-40.82/-20.35|-51.7/-25.64|-75.32/-39.71|-165.21/-24.46|-165.68/-14.24|-162.01/-11.63|-165.54/-5.06|-164.04/-4.63|-160.6/-11.17|-160.15/-12.09|-164.56/-15.04|-164.09/-23.21|-76.59/-38.2|-53.52/-24.53|-41.89/-19.24|-29.69/-15.47|-20.79/-12.13</polystring>
+      </polyhotspot>
+      <polyhotspot id="교통3" backgroundcolor="0xffaa00" bordercolor="0xffffff" description="" borderalpha="1" url="" title="" backgroundalpha="0.470588" target="_blank">
+        <polystring>-32.42/-34.29|-44.46/-29.12|-50.25/-20.6|-51.99/-14.38|-60.27/-7.79|-61.76/-8.35|-53.1/-14.96|-51.51/-21.47|-45.86/-30.08|-33.27/-35.83</polystring>
+      </polyhotspot>
+      <polyhotspot id="교통4" backgroundcolor="0xaa55ff" bordercolor="0xffffff" description="" borderalpha="1" url="" title="" backgroundalpha="0.470588" target="_blank">
+        <polystring>-326.06/-22.62|-329.89/-28.26|-329.34/-35.93|-9.26/-43.1|-21.83/-34.57|-32.34/-34.54|-33.38/-35.88|-22.31/-36.5|-10.51/-44.59|-328.67/-37.4|-326.43/-35.06|-327.42/-29.83|-325.1/-23.28</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image roty="0.000" width="640" id="주택지구" rotx="0.000" rotz="3.000" stretch="1.000" pan="57.790" height="288" clickmode="0" tilt="-8.630" popbackmode="0" hidepinned="0" handcursor="0" fov="15.690">
+        <source url="media/image.png"/>
+      </image>
+      <image roty="0.000" width="1952" id="주택지구" rotx="0.000" rotz="0.000" stretch="1.000" pan="7.760" height="1616" clickmode="0" tilt="-24.210" popbackmode="0" hidepinned="0" handcursor="0" fov="45.840">
+        <source url="media/image-1.png"/>
+      </image>
+      <image roty="0.000" width="100" id="자연" rotx="-67.000" rotz="0.000" stretch="1.000" pan="-346.750" height="100" clickmode="0" tilt="-39.030" popbackmode="0" hidepinned="0" handcursor="0" fov="15.000">
+        <source url="media/11..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교육" rotx="-58.000" rotz="20.000" stretch="1.000" pan="-340.170" height="197" clickmode="0" tilt="-46.100" popbackmode="0" hidepinned="0" handcursor="0" fov="20.000">
+        <source url="media/5..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교육" rotx="0.000" rotz="0.000" stretch="1.000" pan="-335.050" height="197" clickmode="0" tilt="-10.290" popbackmode="0" hidepinned="0" handcursor="0" fov="14.000">
+        <source url="media/2..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교육" rotx="-8.000" rotz="0.000" stretch="1.000" pan="-310.750" height="197" clickmode="0" tilt="-10.360" popbackmode="0" hidepinned="0" handcursor="0" fov="11.000">
+        <source url="media/4..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교육" rotx="-16.000" rotz="0.000" stretch="1.000" pan="-305.370" height="197" clickmode="0" tilt="-8.840" popbackmode="0" hidepinned="0" handcursor="0" fov="12.000">
+        <source url="media/4..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교통" rotx="-22.000" rotz="0.000" stretch="1.000" pan="-20.880" height="197" clickmode="0" tilt="-16.960" popbackmode="0" hidepinned="0" handcursor="0" fov="25.000">
+        <source url="media/1..png"/>
+      </image>
+      <image roty="0.000" width="397" id="자연" rotx="-22.000" rotz="3.000" stretch="1.000" pan="-90.900" height="197" clickmode="0" tilt="-29.100" popbackmode="0" hidepinned="0" handcursor="0" fov="22.000">
+        <source url="media/10..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교통" rotx="-19.000" rotz="0.000" stretch="1.000" pan="-59.020" height="197" clickmode="0" tilt="-7.270" popbackmode="0" hidepinned="0" handcursor="0" fov="17.000">
+        <source url="media/15..png"/>
+      </image>
+      <image roty="-7.000" width="130" id="교통" rotx="-8.000" rotz="-4.000" stretch="1.000" pan="-35.450" height="70" clickmode="0" tilt="-14.020" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/13..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교통" rotx="-23.000" rotz="0.000" stretch="1.000" pan="-1.410" height="197" clickmode="0" tilt="-38.750" popbackmode="0" hidepinned="0" handcursor="0" fov="21.000">
+        <source url="media/14..png"/>
+      </image>
+      <image roty="0.000" width="100" id="교통" rotx="-22.000" rotz="-3.000" stretch="1.000" pan="-49.370" height="60" clickmode="0" tilt="-18.740" popbackmode="0" hidepinned="0" handcursor="0" fov="19.000">
+        <source url="media/16..png"/>
+      </image>
+      <image roty="0.000" width="397" id="교통" rotx="-13.000" rotz="-3.000" stretch="1.000" pan="-186.490" height="197" clickmode="0" tilt="-12.190" popbackmode="0" hidepinned="0" handcursor="0" fov="25.000">
+        <source url="media/17.JC.png"/>
+      </image>
+      <image roty="0.000" width="397" id="생활" rotx="-52.000" rotz="0.000" stretch="1.000" pan="-349.680" height="197" clickmode="0" tilt="-61.630" popbackmode="0" hidepinned="0" handcursor="0" fov="13.000">
+        <source url="media/18..png"/>
+      </image>
+      <image roty="0.000" width="100" id="생활" rotx="-67.000" rotz="0.000" stretch="1.000" pan="-33.130" height="100" clickmode="0" tilt="-65.570" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/19..png"/>
+      </image>
+      <image roty="0.000" width="500" id="자연" rotx="-6.000" rotz="1.000" stretch="1.000" pan="-4.360" height="197" clickmode="0" tilt="-10.000" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/20..png"/>
+      </image>
+      <image roty="0.000" width="130" id="자연" rotx="0.000" rotz="0.000" stretch="1.000" pan="-15.850" height="60" clickmode="0" tilt="2.210" popbackmode="0" hidepinned="0" handcursor="0" fov="10.000">
+        <source url="media/21..png"/>
+      </image>
+      <image roty="0.000" width="142" id="자연" rotx="-9.000" rotz="0.000" stretch="1.000" pan="-337.020" height="97" clickmode="0" tilt="-5.300" popbackmode="0" hidepinned="0" handcursor="0" fov="18.000">
+        <source url="media/22..png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" delay="none" zoomafteroutfov="40" zoomoutpause="1" zoomout="0" zoomfov="40" blendtime="1" blendcolor="0x000000" zoomin="0" softedge="0" enabled="1" zoomspeed="2" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0"/>
+    <control lockedmouse="0" contextfullscreen="1" rubberband="0" sensitivity="8" lockedkeyboardzoom="0" simulatemass="1" dblclickfullscreen="0" contextprojections="0" zoomcentercursor="1" hideabout="0" invertwheel="0" lockedwheel="0" lockedkeyboard="0" invertcontrol="1" contextvr="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" comment="" author="" title="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
